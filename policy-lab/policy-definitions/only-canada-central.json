@@ -1,0 +1,17 @@
+{
+  "if": {
+    "allOf": [
+      {
+        "field": "location",
+        "notEquals": "eastus"
+      },
+      {
+        "field": "location",
+        "notEquals": "global"
+      }
+    ]
+  },
+  "then": {
+    "effect": "deny"
+  }
+}

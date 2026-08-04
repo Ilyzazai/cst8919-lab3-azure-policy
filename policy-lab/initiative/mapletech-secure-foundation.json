@@ -1,0 +1,14 @@
+[
+  {
+    "policyDefinitionId": "/subscriptions/d7ccc90f-251e-4e41-a345-4e0fccd46019/providers/Microsoft.Authorization/policyDefinitions/Only-CanadaCentral",
+    "policyDefinitionReferenceId": "OnlyCanadaCentral"
+  },
+  {
+    "policyDefinitionId": "/subscriptions/d7ccc90f-251e-4e41-a345-4e0fccd46019/providers/Microsoft.Authorization/policyDefinitions/Require-ProjectName-Tag",
+    "policyDefinitionReferenceId": "RequireProjectNameTag"
+  },
+  {
+    "policyDefinitionId": "/subscriptions/d7ccc90f-251e-4e41-a345-4e0fccd46019/providers/Microsoft.Authorization/policyDefinitions/Deny-Public-IP",
+    "policyDefinitionReferenceId": "DenyPublicIP"
+  }
+]
